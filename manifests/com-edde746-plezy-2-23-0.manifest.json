@@ -1,0 +1,15 @@
+{
+  "id": "com.edde746.plezy",
+  "version": "2.23.0",
+  "type": "native",
+  "title": "Plezy",
+  "appDescription": "Modern cross-platform Plex & Jellyfin client built with Flutter. Native webOS port with hardware-accelerated direct play.",
+  "iconUri": "https://yummiergravy.github.io/webos-repo/icons/com.edde746.plezy.png",
+  "sourceUrl": "https://github.com/GLNick/plezy-webos",
+  "rootRequired": false,
+  "ipkUrl": "https://yummiergravy.github.io/webos-repo/packages/com.edde746.plezy_2.23.0_arm.ipk?v=6489f69f",
+  "ipkHash": {
+    "sha256": "6489f69f0c4669bb54976f407888802f36073d552e498abf60418e99fb8e0664"
+  },
+  "ipkSize": 33427498
+}

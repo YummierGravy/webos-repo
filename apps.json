@@ -12,7 +12,7 @@
       "id": "com-edde746-plezy-2-23-0",
       "title": "Plezy",
       "iconUri": "https://yummiergravy.github.io/webos-repo/icons/com.edde746.plezy.png",
-      "manifestUrl": "https://yummiergravy.github.io/webos-repo/manifests/com-edde746-plezy-2-23-0.manifest.json?v=6489f69f",
+      "manifestUrl": "https://yummiergravy.github.io/webos-repo/manifests/com-edde746-plezy-2-23-0.manifest.json?v=51bfb21f",
       "manifest": {
         "id": "com.edde746.plezy",
         "version": "2.23.0",
@@ -22,11 +22,11 @@
         "iconUri": "https://yummiergravy.github.io/webos-repo/icons/com.edde746.plezy.png",
         "sourceUrl": "https://github.com/GLNick/plezy-webos",
         "rootRequired": true,
-        "ipkUrl": "https://yummiergravy.github.io/webos-repo/packages/com.edde746.plezy_2.23.0_arm.ipk?v=6489f69f",
+        "ipkUrl": "https://yummiergravy.github.io/webos-repo/packages/com.edde746.plezy_2.23.0_arm.ipk?v=51bfb21f",
         "ipkHash": {
-          "sha256": "6489f69f0c4669bb54976f407888802f36073d552e498abf60418e99fb8e0664"
+          "sha256": "51bfb21f958478912cd888393975d7d13c5e701afcb977f6930fb5b99b4eb6d7"
         },
-        "ipkSize": 33427498
+        "ipkSize": 33505418
       },
       "pool": "main",
       "shortDescription": "Plezy 2.23.0 - Plex & Jellyfin client (native webOS port)",
